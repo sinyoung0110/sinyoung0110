@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LangLearnHub](https://github.com/kimnari1073/LangLearnHub)
 
-- 🌱 I’m currently learning **spring Boot**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sinyoung0110](https://github.com/sinyoung0110)
 
